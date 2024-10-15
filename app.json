@@ -1,0 +1,32 @@
+{
+  "id": "d9f98e9d-8e24-4310-a0b6-2c875d50541e",
+  "name": "Marketing Text management",
+  "publisher": "Paul Rennison",
+  "version": "1.0.0.0",
+  "brief": "Streamline item marketing text management with easy import/export functionality.",
+  "description": "This extension enhances Business Central's item management by providing a robust solution for handling marketing text. Key features include:\n\n- Import marketing text for items from Excel, streamlining bulk data entry\n- Export existing marketing text to Excel for easy review and editing\n- Clear functionality to efficiently manage and update item descriptions\n- Seamless integration with the standard Item table\n- User-friendly interface for managing marketing content across your item catalog\n\nIdeal for businesses looking to efficiently manage and update product descriptions, this tool significantly reduces the time and effort required for maintaining marketing text across large item catalogs.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.1",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
